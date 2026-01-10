@@ -16,10 +16,10 @@
 🔹 **MERN Stack Developer | API Expert | Hackathon Specialist**  
 🔹 🏆 **Smart India Hackathon (SIH) 2025 – National Finalist & Runner-Up**  
 🔹 Passionate about **AI systems, real-time platforms & scalable architectures**  
-🔹 Master of **3D UI, animations & high-performance frontend systems**  
-🔹 Strong leadership & execution experience in **national-level competitions**
+🔹 Expert in **3D UI, animations & high-performance frontend systems**  
+🔹 Proven leadership in **hackathons, startups & national-level competitions**
 
-> 💡 *“I don’t just build apps — I engineer systems that scale.”*
+> 💡 *“I don’t just write code — I lead ideas into production.”*
 
 ---
 
@@ -27,17 +27,37 @@
 
 🥈 **Smart India Hackathon (SIH) 2025**  
 ✔ National-Level **Finalist & Runner-Up**  
-✔ Built a **production-ready solution** under real-world constraints  
-✔ Focused on **security, scalability & performance**
+✔ Led solution design & system architecture  
+✔ Built a **production-grade, scalable solution** under real-world constraints  
 
-🚀 **Hackathon Warrior**  
-✔ Multiple hackathons & innovation challenges  
-✔ Rapid prototyping + clean architecture expert  
+🥉 **Project Exhibition – 3rd Place**  
+✔ Project: **RANI – Real-Time Alert & Notification System**  
+✔ Designed a **real-time emergency & alert broadcasting platform**  
+✔ Recognized for **innovation, execution & real-world impact**
 
-👨‍💼 **Leadership Experience**  
-✔ Area Manager Intern – *Innovative View*  
-✔ Managed **14+ centers & backend systems**  
-✔ Coordinated operations for **10,000+ users**
+🚀 **Hackathon Excellence**  
+✔ Participated in multiple **national & internal hackathons**  
+✔ Known for **rapid prototyping, system design & UI excellence**
+
+---
+
+## 👨‍💼 Leadership Experience  
+
+🚀 **Software Intern – OpsightAI**  
+✔ Built and led **OpsightAI Academy** from scratch  
+✔ Designed **learning modules, technical roadmap & project workflows**  
+✔ Worked on **AI-driven software solutions & internal platforms**  
+✔ Mentored peers and junior developers on **real-world development practices**
+
+👨‍💻 **Hackathon Project & Team Lead**  
+✔ Led cross-functional teams during **hackathons & innovation challenges**  
+✔ Managed **task distribution, architecture planning & final delivery**  
+✔ Acted as the **technical decision-maker under tight deadlines**
+
+🏢 **Area Manager Intern – Innovative View**  
+✔ Managed **14+ centers** and large-scale backend systems  
+✔ Coordinated biometric systems, servers & operations  
+✔ Handled workflows impacting **10,000+ users**
 
 ---
 
@@ -70,7 +90,7 @@
 
 ✔ AI-powered platforms  
 ✔ Secure authentication systems (JWT, RBAC, Ghost Mode)  
-✔ Real-time dashboards & chat systems  
+✔ Real-time dashboards & alert systems  
 ✔ Law-Tech & Gov-Tech platforms  
 ✔ Scalable MERN applications  
 
@@ -105,7 +125,10 @@
 
 ---
 
-<h3 align="center">⚡ Turning Real-World Problems into Scalable Tech ⚡</h3>
+<h3 align="center">⚡ Engineering Ideas. Leading Teams. Delivering Impact. ⚡</h3>
+
+<!-- ===================== END ===================== -->
+
 
 <!-- ===================== END ===================== -->
 
